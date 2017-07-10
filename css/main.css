@@ -30,7 +30,8 @@ p {
 }
 
 #main-content {
-	margin:0 auto;
+	margin:0;
+	color: orange;
 }
 
 #main-image {
