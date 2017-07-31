@@ -7,10 +7,14 @@ h1 {
   font-family: serif;
   text-align: center;
 }
-
-
+.contact-image{
+    height: 50px;
+    width: 50px;
+    
+}
 .contact-image img:hover {
   background-color: #C37500;
   opacity:0.7 !important;
   filter:alpha(opacity=70) 
   box-shadow: 0 0 0px #000000 
+}
