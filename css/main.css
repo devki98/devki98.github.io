@@ -14,3 +14,10 @@ h1 {
   filter:alpha(opacity=70) 
   box-shadow: 0 0 0px #000000 
 }
+
+.contact-image{
+  position: relative;
+  float: left;
+  width:  100px;
+  height: 100px;
+}
