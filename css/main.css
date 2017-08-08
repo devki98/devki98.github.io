@@ -14,7 +14,9 @@ h1 {
   filter:alpha(opacity=70) 
   box-shadow: 0 0 0px #000000 
 }
-
+row content{
+  font-size: small;
+}
 .contact-image{
   position: relative;
 
